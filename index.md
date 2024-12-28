@@ -16,7 +16,7 @@
 
 <div class="row">
   <div class="column">
-    <img src="./images/headshot_cropped.jpg" alt="Italian Trulli">
+    <img src="./photos/headshot.jpg" alt="glasses">
   </div>
   <div class="column">
     <h1>Contact</h1>
