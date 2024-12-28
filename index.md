@@ -23,7 +23,7 @@
 
 <div class="row">
   <div class="column">
-    <img src="./photos/headshot.jpg" alt="glasses">
+    <img src="./photos/headshot.JPG" alt="glasses">
   </div>
   <div class="column">
     <h1>Contact</h1>
