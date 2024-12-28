@@ -27,7 +27,7 @@
   </div>
   <div class="column">
     <h1>Contact</h1>
-    <p>Phone: +1-360-206-7812</p>
+    <p>Phone: +1-425-903-6445</p>
     <p>Email: <a href="mailto:murraypendergrass0@gmail.com">murraypendergrass0@gmail.com</a> </p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/mmpendergrass/">MMPendergrass</a></p> 
     <p>GitHub: <a href="https://github.com/MurrayPendergrass">MurrayPendergrass</a></p>
@@ -35,12 +35,10 @@
 </div>
 
 # Welcome to my Website!
-My name is Murray Pendergrass, and this is my 
+My name is Murray Pendergrass and this is my Github website where I show some of my personal projects. I work in the intersection of data science and actuarial science.
 
 # Education
-## MS Applied Mathematics
-_Eastern Washington University_, June 2021  
-GPA: 4.0  
-Outstanding Graduate Award  
-Graduate Service Appointment  
+## MS Mathematics
+_Western Washington University_, 2018  
+GPA: 3.2 
 [EWU Transcript](transcripts/EWU_transcript.pdf)
