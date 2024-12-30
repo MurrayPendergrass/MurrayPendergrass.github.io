@@ -32,17 +32,18 @@ My name is Murray Pendergrass. This is where I show some of my personal projects
 
 # Education
 ## MS Mathematics
-_Western Washington University_, 2018  
-GPA: 3.58 
-/* [EWU Transcript](transcripts/EWU_transcript.pdf) */
+_Western Washington University_, 2018 <br>  
+GPA: 3.58 <br>
+Teaching Assistant <br>
+[WU Transcript](transcripts/Academic History.pdf)
 
 ## BS Mathematics
 _Western Washington University_, 2017  
 GPA: 3.94  
-Math Fellow  
-Honors Graduate  
-Outstanding Graduate Award 
-/* [WWU Transcript](transcripts/WWU_transcript.pdf) */
+Math Fellow <br> 
+Honors Graduate <br>  
+Outstanding Graduate Award <br>
+[WWU Transcript](transcripts/Academic History.pdf)
 
 # Interests
 * Personalized Medicine - Each one of us is different. We often present different symptoms for the same condition and we respond differently to the same medicine. Data science is the answer - if we learn what information determines these differences and find ways to collect it passively it can be used to more effectively and efficiently treat and prevent negative health outcomes.   
@@ -80,5 +81,5 @@ Tools: R (Hmisc, corrplot, randomForest, caret, ggplot2)
 The above link will take you to the list of all of my GitHub repositories. Projects in development include:
 * A fast hierarchical text document clustering Python package
 
-## [Thank You For Visiting](https://murraypendergrass.github.io)
+## [Thank You For Visiting]
 <img src="./photos/mendog.jpg">
