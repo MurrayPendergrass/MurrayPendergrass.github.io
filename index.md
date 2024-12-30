@@ -16,7 +16,7 @@
 
 <div class="row">
   <div class="column">
-    <img src="./photos/headshot2_1668x2223.jpeg" alt="glasses">
+    <img src="./photos/headshot2_1668x2223.jpeg" height="410" width="315" alt="glasses">
   </div>
   <div class="column">
     <h1>Contact</h1>
