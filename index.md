@@ -32,16 +32,16 @@ My name is Murray Pendergrass. This is where I show some of my personal projects
 
 # Education
 ## MS Mathematics
-_Western Washington University_, 2018 <br>  
+_Western Washington University_, 2018 <br> 
 GPA: 3.58 <br>
 Teaching Assistant <br>
-[WU Transcript](transcripts/Academic History.pdf)
+[WWU Transcript](transcripts/Academic History.pdf)
 
 ## BS Mathematics
 _Western Washington University_, 2017  
 GPA: 3.94  
 Math Fellow <br> 
-Honors Graduate <br>  
+Honors Graduate  
 Outstanding Graduate Award <br>
 [WWU Transcript](transcripts/Academic History.pdf)
 
