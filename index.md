@@ -33,29 +33,28 @@ My name is Murray Pendergrass. This is where I show some of my personal projects
 # Education
 ## MS Mathematics
 _Western Washington University_, 2018  
-GPA: 3.2 
-[EWU Transcript](transcripts/EWU_transcript.pdf)
+GPA: 3.58 
+/* [EWU Transcript](transcripts/EWU_transcript.pdf) */
 
 ## BS Mathematics
-_Western Washington University_, December 2017  
-GPA: 3.5  
-Minor: Chemistry  
+_Western Washington University_, 2017  
+GPA: 3.94  
 Math Fellow  
-Honors Program Graduate  
-Presidential Scholarship Recipient  
-[WWU Transcript](transcripts/WWU_transcript.pdf)  
+Honors Graduate  
+Outstanding Graduate Award 
+/* [WWU Transcript](transcripts/WWU_transcript.pdf) */
 
 # Interests
 * Personalized Medicine - Each one of us is different. We often present different symptoms for the same condition and we respond differently to the same medicine. Data science is the answer - if we learn what information determines these differences and find ways to collect it passively it can be used to more effectively and efficiently treat and prevent negative health outcomes.   
 
 * Negative Socioeconomic Outcome Prevention - Preventing individuals from experiencing negative socioeconomic outcomes such as homelessness is more humane and cost-effective than waiting to assist people only after they have reached the negative outcome, such as losing their homes. See my Predicting Homelessness project below.
 
-* Data Science Tools - I always enjoy learning new tools to help extract, investigate, transform, and visualize data, fit models, and present results.
+* Indigenous Empowerement  - As a descendant of the Blackfeet Nation, I have a vested interested in using my time and resources to advocate for Indigenous people and empower Indigenous voices. 
 
-* Outdoors - I am currently living in Leavenworth, Washington, and enjoying exploring the surrounding mountains. 
+* Climbing - I enjoy recreating in the mountains in many ways, from skiing to trailrunning, but my primary interest is alpinism - climbing large technical peaks via ice and rock climbing.
 
 # Professional Documents
-| <a href="https://middlec000.github.io/resume/resume.pdf" target="_blank"> Resume </a> | <a href="https://middlec000.github.io/cv/cv.pdf" target="_blank"> CV </a> |
+| <a href="https://murraypendergrass.github.io/resume/resume.pdf" target="_blank"> Resume </a> |
 
 # Portfolio
 You can click on each of the project headers to visit the GitHub repository for each project.
