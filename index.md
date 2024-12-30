@@ -28,7 +28,7 @@
 </div>
 
 # Welcome to my website!
-My name is Murray Pendergrass. This is where I show some of my personal projects. I work in the intersection of data science and actuarial science.
+My name is Murray Pendergrass. This is where I show some of my personal projects. I mostly work in the intersection of data science and actuarial science.
 
 # Education
 ## MS Mathematics
@@ -81,5 +81,5 @@ Tools: R (Hmisc, corrplot, randomForest, caret, ggplot2)
 The above link will take you to the list of all of my GitHub repositories. Projects in development include:
 * A fast hierarchical text document clustering Python package
 
-## [Thank You For Visiting](https://murraypendergrass.github.io/)
+## [Thank You For Visiting](https://murraypendergrass.github.io)
 <img src="./photos/mendog.jpg">
