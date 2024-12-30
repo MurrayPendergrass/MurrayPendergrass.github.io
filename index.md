@@ -27,8 +27,8 @@
   </div>
 </div>
 
-# Welcome to my Website!
-My name is Murray Pendergrass and this is my Github website where I show some of my personal projects. I work in the intersection of data science and actuarial science.
+# Welcome to my website!
+My name is Murray Pendergrass. This is where I show some of my personal projects. I work in the intersection of data science and actuarial science.
 
 # Education
 ## MS Mathematics
