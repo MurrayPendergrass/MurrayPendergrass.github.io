@@ -81,4 +81,4 @@ Tools: R (Hmisc, corrplot, randomForest, caret, ggplot2)
 The above link will take you to the list of all of my GitHub repositories. Projects in development include:
 * A fast hierarchical text document clustering Python package
 
-![alt text](./images/static_peak.jpg "September 2021 - Static Peak, Tetons, WY")
+![alt text](./images/mendopg.jpg "September 2021 - Static Peak, Tetons, WY")
