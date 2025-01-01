@@ -46,9 +46,7 @@ Outstanding Graduate Award <br>
 [WWU Transcript](transcripts/Academic History.pdf)
 
 # Interests
-* Personalized Medicine - Each one of us is different. We often present different symptoms for the same condition and we respond differently to the same medicine. Data science is the answer - if we learn what information determines these differences and find ways to collect it passively it can be used to more effectively and efficiently treat and prevent negative health outcomes.   
-
-* Negative Socioeconomic Outcome Prevention - Preventing individuals from experiencing negative socioeconomic outcomes such as homelessness is more humane and cost-effective than waiting to assist people only after they have reached the negative outcome, such as losing their homes. See my Predicting Homelessness project below.
+* Negative Socioeconomic Outcome Prevention - Preventing individuals from experiencing negative socioeconomic outcomes such as homelessness is more humane and cost-effective than waiting to assist people only after they have reached the negative outcome, such as losing their homes. Data science can be an effective tool in combating this issue.
 
 * Indigenous Empowerement  - As a descendant of the Blackfeet Nation, I have a vested interested in using my time and resources to advocate for Indigenous people and empower Indigenous voices. 
 
@@ -60,26 +58,8 @@ Outstanding Graduate Award <br>
 # Portfolio
 You can click on each of the project headers to visit the GitHub repository for each project.
 
-## [Predicting Homelessness (Pending Publication)](https://github.com/middlec000/SPA_predict_homelessness)
-Used a logistic regression model to predict an individual's risk of experiencing homelessness based on their utility payment history.  
-Tools: Python (pandas, numpy, statsmodels, scikit-learn, matplotlib)
-
-## [The Wordler](https://github.com/middlec000/wordler)
-A website that suggests words for you to use for the New York Times Wordle game based on your previous guesses and ranked by frequency of use.  
-Tools: Python (streamlit, pandas)
-
-
-## [One-Way ANOVA Website](https://share.streamlit.io/middlec000/grades_vs_student_characteristic/main/src/main.py)
-Upload your data, group it by a categorical column, then determine if there is a statistically significant difference in means of a continuous variable between groups. Example provided.  
-Tools: Python (streamlit, pandas, statsmodels)
-
-## [Wine Quality Classification](https://github.com/middlec000/wine_quality)
-Used a random forest model to classify wine into one of six quality rankings based on given attributes.  
-Tools: R (Hmisc, corrplot, randomForest, caret, ggplot2)
-
-## [In Development](https://github.com/middlec000?tab=repositories)
-The above link will take you to the list of all of my GitHub repositories. Projects in development include:
-* A fast hierarchical text document clustering Python package
+## [Mountain Soup)](https://github.com/MurrayPendergrass/Mountain_Soup)
+Mountain soup uses a scraping library in Python to extract information from website and send an automated email to users of the program.
 
 ## Thank You For Visiting
 <img src="./photos/mendog.jpg">
