@@ -58,8 +58,8 @@ Outstanding Graduate Award <br>
 # Portfolio
 You can click on each of the project headers to visit the GitHub repository for each project.
 
-## [Mountain Soup)](https://github.com/MurrayPendergrass/Mountain_Soup)
-Mountain soup uses a scraping library in Python to extract information from website and send an automated email to users of the program.
+## [Mountain Soup](https://github.com/MurrayPendergrass/Mountain_Soup)
+Mountain soup uses a scraping library in Python to extract information from an database website and send an automated email to users of the program.
 
 ## Thank You For Visiting
 <img src="./photos/mendog.jpg">
