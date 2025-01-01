@@ -61,5 +61,8 @@ You can click on each of the project headers to visit the GitHub repository for 
 ## [Mountain Soup](https://github.com/MurrayPendergrass/Mountain_Soup)
 Mountain soup uses a scraping library in Python to extract information from an database website and send an automated email to users of the program.
 
+## [In Progress](https://github.com/MurrayPendergrass)
+The above takes you to my general github directory where all of my repositories can be accessed. I am currently working on uploading my ML modeling projects to GitHub.
+
 ## Thank You For Visiting
 <img src="./photos/mendog.jpg">
