@@ -46,7 +46,9 @@ Outstanding Graduate Award <br>
 [WWU Transcript](transcripts/Academic History.pdf)
 
 # Interests
-* Negative Socioeconomic Outcome Prevention - Preventing individuals from experiencing negative socioeconomic outcomes such as homelessness is more humane and cost-effective than waiting to assist people only after they have reached the negative outcome, such as losing their homes. Data science can be an effective tool in combating this issue.
+* Fraud Detection
+
+* Humanitarian Efforts - I am very interested in the application of machine learning and data science to socioeconomic and environmental problem solving.
 
 * Indigenous Empowerement  - As a descendant of the Blackfeet Nation, I have a vested interested in using my time and resources to advocate for Indigenous people and empower Indigenous voices. 
 
@@ -62,7 +64,7 @@ You can click on each of the project headers to visit the GitHub repository for 
 Mountain soup uses a scraping library in Python to extract information from an database website and send an automated email to users of the program.
 
 ## [In Progress](https://github.com/MurrayPendergrass)
-The above takes you to my general github directory where all of my repositories can be accessed. I am currently working on uploading my ML modeling projects to GitHub.
+The above takes you to my general GitHub directory where all of my repositories can be accessed. I am currently working on uploading my ML modeling projects to GitHub.
 
 ## Thank You For Visiting
 <img src="./photos/mendog.jpg">
