@@ -55,7 +55,7 @@ Outstanding Graduate Award <br>
 * Climbing - I enjoy recreating in the mountains in many ways, from skiing to trailrunning, but my primary interest is alpinism - climbing large technical peaks via ice and rock climbing.
 
 # Professional Documents
-| <a href="https://murraypendergrass.github.io/resume/GeneralActuarial.pdf" target="_blank"> Resume </a> |
+| <a href="https://murraypendergrass.github.io/resume/Resume.pdf" target="_blank"> Resume </a> |
 
 # Portfolio
 You can click on each of the project headers to visit the GitHub repository for each project.
