@@ -61,9 +61,14 @@ Outstanding Graduate Award <br>
 You can click on each of the project headers to visit the GitHub repository for each project.
 
 ## [Mountain Soup](https://github.com/MurrayPendergrass/Mountain_Soup)
-Mountain soup uses a scraping library in Python to extract information from an database website and send an automated email to users of the program.
+Mountain soup uses a scraping library in Python to extract information from a database website and send an automated email to users of the program.
+Tools: Python, Beautifdul Soup, 
 
-## [In Progress](https://github.com/MurrayPendergrass)
+## [Wine Quality Prediction](https://github.com/MurrayPendergrass/Wine-Quality-Prediction)
+This project used a supervised machine learning model to automate the process of prediction wine quality based on 11 attributes of each wine. A full analysis is conducted with next steps for model improvement
+Tools: R, Jupyter, randomForest, Hmisc, ggplot2
+
+## [In Progress](https://github.com/MurrayPendergrass?tab=repositories)
 The above takes you to my general GitHub directory where all of my repositories can be accessed. I am currently working on uploading my ML modeling projects to GitHub.
 
 ## Thank You For Visiting
