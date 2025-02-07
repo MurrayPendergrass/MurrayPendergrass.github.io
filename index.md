@@ -65,7 +65,7 @@ Mountain soup uses a scraping library in Python to extract information from a da
 Tools: Python (Beautifdul Soup, smtplib)
 
 ## [Wine Quality Prediction](https://github.com/MurrayPendergrass/Wine-Quality-Prediction)
-This project used a supervised machine learning model to automate the process of prediction wine quality based on 11 attributes of each wine. A full analysis is conducted with next steps for model improvement \
+This project uses a supervised machine learning model to automate the process of predicting wine quality based on 11 attributes of each wine. A full analysis is conducted with next steps for model improvement \
 Tools: Jupyter, R (randomForest, Hmisc, ggplot2)
 
 ## [In Progress](https://github.com/MurrayPendergrass?tab=repositories)
