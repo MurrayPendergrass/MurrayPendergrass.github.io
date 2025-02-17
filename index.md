@@ -62,7 +62,7 @@ You can click on each of the project headers to visit the GitHub repository for 
 
 ## [Mountain Soup](https://github.com/MurrayPendergrass/Mountain_Soup)
 Mountain soup uses a scraping library in Python to extract information from a database website and send an automated email to users of the program. \
-Tools: Python (Beautifdul Soup, smtplib)
+Tools: Python (Beautiful Soup, smtplib)
 
 ## [Wine Quality Prediction](https://github.com/MurrayPendergrass/Wine-Quality-Prediction)
 This project uses a supervised machine learning model to automate the process of predicting wine quality based on 11 attributes of each wine. A full analysis is conducted with next steps for model improvement \
