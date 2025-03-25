@@ -48,11 +48,13 @@ Outstanding Graduate Award <br>
 # Interests
 * Fraud Detection
 
-* Humanitarian Efforts - I am very interested in the application of machine learning and data science to socioeconomic and environmental problem solving.
+* Humanitarian Efforts - I am very interested in the application of machine learning and data science to empowering humans, prevent negative socioeconomic outcomes, and environmental problem solving.
 
 * Indigenous Empowerement  - As a descendant of the Blackfeet Nation, I have a vested interested in using my time and resources to advocate for Indigenous people and empower Indigenous voices. 
 
-* Climbing - I enjoy recreating in the mountains in many ways, from skiing to trailrunning, but my primary interest is alpinism - climbing large technical peaks via ice and rock climbing.
+* Climbing - I enjoy recreating in the mountains. I love skiing and trail running, but mostly alpinism - the art of climbing technical peaks via ice and rock climbing.
+
+* In my spare time I work as a mountain guide for Climbers of Color, a 501(c)(3) nonprofit guide service that subsidizes courses for black, indigenous, and people of color in an effort to diversify recreation in the outdoors. My bio for Climbers of Color can be found | <a href="https://www.climbersofcolor.org/our-team" target="_blank"> here </a> |.
 
 # Professional Documents
 | <a href="https://murraypendergrass.github.io/resume/Resume.pdf" target="_blank"> Resume </a> |
@@ -65,11 +67,11 @@ Mountain soup uses a scraping library in Python to extract information from a da
 Tools: Python (Beautiful Soup, smtplib)
 
 ## [Wine Quality Prediction](https://github.com/MurrayPendergrass/Wine-Quality-Prediction)
-This project uses a supervised machine learning model to automate the process of predicting wine quality based on 11 attributes of each wine. A full analysis is conducted with next steps for model improvement \
+This project uses a supervised machine learning model to automate the process of predicting wine quality based on 11 attributes of each wine. A full analysis is conducted with next steps for model improvement. \
 Tools: Jupyter, R (randomForest, Hmisc, ggplot2)
 
 ## [In Progress](https://github.com/MurrayPendergrass?tab=repositories)
-The above takes you to my general GitHub directory where all of my repositories can be accessed. I am currently working on uploading my ML modeling projects to GitHub.
+The above takes you to my general GitHub directory where all of my repositories can be accessed. I am currently working on uploading more ML modeling projects to GitHub.
 
 ## Thank You For Visiting
 <img src="./photos/mendog.jpg">
