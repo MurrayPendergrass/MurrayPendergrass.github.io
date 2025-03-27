@@ -52,8 +52,6 @@ Outstanding Graduate Award <br>
 
 * Indigenous Empowerement  - As a descendant of the Blackfeet Nation, I have a vested interested in using my time and resources to advocate for Indigenous people and empower Indigenous voices. 
 
-* Climbing - I enjoy recreating in the mountains. I love skiing and trail running, but mostly alpinism - the art of climbing technical peaks via ice and rock climbing.
-
 * In my spare time I work as a mountain guide for Climbers of Color, a 501(c)(3) nonprofit guide service that subsidizes courses for black, indigenous, and people of color in an effort to diversify recreation in the outdoors. My bio for Climbers of Color can be found <a href="https://www.climbersofcolor.org/our-team" target="_blank"> here </a>.
 
 # Professional Documents
